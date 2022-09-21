@@ -32,6 +32,7 @@ I currently use a lot of Python 🐍.
 I want to introduce Rust and C++ to my tool belt soon.
 
 **Languages**: Python, JavaScript, TypeScript, Go, C
+
 **Technologies**: AWS, GCP, Linux, Git, Docker, Kubernetes, React, Vue
 
 
