@@ -38,7 +38,7 @@ I want to introduce Rust and C++ to my tool belt soon.
 ### Contact
 
 Want to get in contact? 
-Send me an email at RichardBieringa@gmail.com or hit me up on LinkedIn
+Send me an email at RichardBieringa@gmail.com or hit me up on LinkedIn.
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardbieringa@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardbieringa/)
