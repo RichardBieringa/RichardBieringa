@@ -1,13 +1,12 @@
 ![greetings](./assets/hello.webp)
 
-
 ### About me
 
-- My name is Richard and I am software engineer located in Amsterdam ❌❌❌
+My name is Richard and I am software engineer located in Amsterdam ❌❌❌
 
 - 🎓 I recently graduated with a master's degree in Computer Science from the Vrije Universiteit Amsterdam. 
 
-- 💖 have a passion for distributed systems, cloud computing and containerization!
+- 💖 I have a passion for distributed systems, cloud computing and containerization!
 
 
 ### Academic Stuff
